@@ -6,5 +6,3 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 append.push('Odie');
 prepend.unshift('Odie');
-removeLast.splice(-1, 1);
-removeFirst.splice(0, 1);
